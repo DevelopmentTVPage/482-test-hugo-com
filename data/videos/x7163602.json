@@ -23,8 +23,6 @@
     "id": "7163602",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "2",
-    "entityIdParent": "6287448",
     "titleTextEncoded": "All-Clad-TK-Risotto-Recipe",
     "category": "",
     "duration": 10000,
@@ -43,12 +41,6 @@
         "uploadAsset": false,
         "quality": ""
     },
-    "tvp_profiles": [
-        "18",
-        "14"
-    ],
-    "tvp_profiles_manual": null,
-    "tvp_profiles_maxscore": 3935.7107,
     "delete": null,
     "notes": null,
     "uploader": null,

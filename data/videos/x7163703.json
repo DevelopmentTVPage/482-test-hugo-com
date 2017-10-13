@@ -23,8 +23,6 @@
     "id": "7163703",
     "loginId": "1758166",
     "entityType": "1",
-    "sortOrder": "25",
-    "entityIdParent": "6287448",
     "titleTextEncoded": "Flavored-Stock-for-Shrimp-Soup",
     "category": "",
     "duration": 10000,
@@ -43,12 +41,6 @@
         "uploadAsset": false,
         "quality": ""
     },
-    "tvp_profiles": [
-        "14",
-        "18"
-    ],
-    "tvp_profiles_manual": null,
-    "tvp_profiles_maxscore": 496.3396,
     "delete": null,
     "notes": null,
     "uploader": null,
